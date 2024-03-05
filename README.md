@@ -21,7 +21,8 @@ The program needs to plan the optimal set of instructions for the lift to travel
 * L1 is also the ground level (_there is not a separate G button_).
 * L1 only has an "up" elevator button.
 * L10 only has a "down" elevator button.
-* The elevator does not malfunction in any way.
+* The elevator does not malfunction in any way (_including exceeding maximum weight capacity_).
+* The software is not required to handle race conditions, single threaded execution is expected.
 
 ### User Persona
 
