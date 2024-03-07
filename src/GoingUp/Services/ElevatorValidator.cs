@@ -6,7 +6,7 @@ namespace GoingUp.Services
     /// <summary>
     /// Holds validation rules for elevator rides.
     /// </summary>
-    internal sealed class ElevatorValidator
+    public sealed class ElevatorValidator
     {
         public bool ValidateTravel(Level requestedLevel, Level currentLevel, Direction intendedDirection)
         {

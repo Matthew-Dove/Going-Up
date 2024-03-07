@@ -27,4 +27,3 @@ The program needs to plan the optimal set of instructions for the lift to travel
 ### User Persona
 
 ![persona](assets/images/user-persona.png)
-
